@@ -10,7 +10,7 @@
 [Markdown Tutorial](https://www.markdowntutorial.com/)
 
 
-
+"My first github assignment"
 1.Create a Heading right above this line &uarr; that says 'My First Github Assignment' 
 
 2.Create an ordered list detailing your first and last name, your favorite blog or podcast, and the link to your GitHub repo. Make your first and last name Bold and Italicize your favorite blog or podcast name.  
@@ -18,9 +18,9 @@
 It should look something like this: 
 
 1. Name:
-  * Arnon Lieber
+  * **Juliana Ilmain**
 2. 
-  * 
-3. 
+  * *I don't follow any blogs or podcasts*
+3. https://github.com/ji713
 
 Once you are done, commit your changes, and push to GitHub. 
